@@ -1,0 +1,221 @@
+html{font-size: 100px}
+html,body,.main,.swiper-container,.swiper-slide{width: 100%;height: 100%;overflow: hidden}
+.page5 .bt2 img,.page4 .z4 img,.page5 .x3 .l1,.page5 .x3 p,.page5 .x3 .l2,.page5 .x3 .l3,.page5 .x3 .l4,.page5 .x3 .l5,.page5 .x3 .l6,.page6 .x4 .d1,.page6 .x4 .d2,.page6 .x4 .k1,.page6 .x4 .k2,.page7 img{opacity: 0}
+.page1 .jl,h1,h2,span,.zp,.page4 .bt1 img,.page4 .sg,.page4 .z1 p,.page4 .z1 img,.page4 .z2 p,.page4 .z2 img,.page4 .z3 p,.page4 .z3 img,.page4 .z4 p{opacity: 0}
+
+/*第一屏*/
+.page1{background: url("../images/pege1/bj.jpg") no-repeat;background-size: cover}
+.page1 .jl{position:absolute;background: url("../images/pege1/grjl.png") no-repeat;background-size: cover;width: 2.96rem;height: 8.12rem;left: 50%;margin-left: -1.48rem;
+    top:2.6rem;}
+.page1 h1{font-size: 0.9rem;color: #064a51;text-align: center;padding-top: 0.7rem;
+font-weight: normal}
+.page1 h2{font-size: 0.34rem;text-align: center;padding-top: 0.2rem;letter-spacing: 0.02rem}
+.page1 span{display:block;font-size: 0.3rem;color: #064a51;text-align: center;padding-top: 0.2rem;padding-left: 0.4rem  }
+.page1 .pen{position:absolute;background: url("../images/pege1/pen.png") no-repeat;background-size: cover;width: 2rem;height: 2rem;left: 0.8rem;top: 8.8rem}
+
+/*第二屏*/
+.page2{background: url("../images/pege2/bj.png") no-repeat;background-size: cover}
+.page2 h1{font-size: 0.54rem;color: #064a51;text-align: center;letter-spacing: 0.1rem;font-weight: normal;padding-top: 1.16rem;padding-left:0.1rem}
+.page2 .zp img{width: 2.2rem;height: 2.31rem;margin: 0.5rem auto;border-radius: 50%;margin-top: 0.7rem;box-shadow: 0 0 0.4rem 0.1rem #fdcd13;margin-left: 2.1rem;
+}
+.page2 .x1{font-size: 0.26rem;color: #064a51;line-height: 0.54rem;font-weight: bold;float: left;padding-left: 0.68rem}
+.page2 .x1 img{width: 26%;height: 26%;float: right}
+.page2 .x1 .t2{width: 20%;height: 20%;float: right}
+
+/*第三屏*/
+.page3{background: url("../images/page3/bj.png") no-repeat;background-size: cover}
+.page3 h1{font-size: 0.54rem;color: #064a51;text-align: center;letter-spacing: 0.1rem;font-weight: normal;padding-top: 1.16rem;padding-right:0.18rem}
+.page3 .y1{position:absolute;width: 1.98rem;height: 1.98rem;background-size: cover;top: 2.68rem;left: 0.78rem}
+.page3 .y2{position:absolute;width: 1.98rem;height: 1.98rem;background-size: cover;bottom: 3.22rem;right: 0.3rem}
+.page3 .xy1{position:absolute;width: 1.54rem;height: 1.54rem;background-size: cover;
+    top: 4.22rem;left: 2.65rem}
+.page3 .xy2{position:absolute;width: 1.54rem;height: 1.54rem;background-size: cover;left: 0.25rem;bottom: 3rem}
+.page3 .xy3{position:absolute;width: 1.54rem;height: 1.54rem;background-size: cover;left: 1.36rem;bottom: 4.3rem}
+.page3 .xy4{position:absolute;width: 1.54rem;height: 1.54rem;background-size: cover;bottom:2.54rem;left: 2.35rem }
+.page3 .xy5{position:absolute;width: 1.54rem;height: 1.54rem;background-size: cover;bottom: 0.94rem;right: 1.5rem}
+.page3 .xy6{position:absolute;width: 1.54rem;height: 1.54rem;background-size: cover;top:4.22rem;right: 0.36rem}
+/*大*/
+.page3 .z1{position:absolute;z-index:9;font-size: 1.8rem;color: #064a51;top: 1.96rem;left: 0.7rem}
+.page3 .z7{position:absolute;z-index:9;font-size:1rem;color: #064a51;bottom: 3.46rem;right: 0.26rem}
+/*小*/
+.page3 .z2{position:absolute;z-index:9;font-size:1.5rem;color: #064a51;left: 1.4rem;bottom: 4.6rem}
+.page3 .z3{position:absolute;z-index:9;font-size:1.2rem;color: #064a51;right: 4.32rem;bottom: 3.44rem}
+.page3 .z4{position:absolute;z-index:9;font-size:1.5rem;color: #064a51;left: 2.68rem;bottom: 5.9rem}
+.page3 .z5{position:absolute;z-index:9;font-size:1.5rem;color: #064a51;bottom: 5.9rem;right: 0.16rem}
+.page3 .z6{position:absolute;z-index:9;font-size:1.2rem;color: #064a51;bottom: 1.4rem;right: 1.39rem}
+.page3 .z8{position:absolute;z-index:9;font-size:0.6rem;color: #064a51;bottom: 2.8rem;right: 2.4rem;line-height: 0.64rem}
+
+/*第四屏*/
+.page4{background: url("../images/pege4/bj.jpg") no-repeat;background-size: cover}
+.page4 img{position: absolute;right: 0.54rem;top:0.94rem;width: 3.26rem;height: 1.25rem;background-size: cover;}
+.page4 span{position:absolute;z-index:9;font-size: 0.54rem;color: #ffffff;letter-spacing: 0.1rem;top: 1.16rem;left: 3rem}
+.page4 .x2{z-index:10;position:absolute;font-size: 0.3rem;color: #064a51;top:2.54rem;left: 1.3rem;letter-spacing: 0.02rem;font-weight: bold}
+.page4 .sg{position:absolute;background: url("../images/pege4/sx.png") no-repeat;background-size: cover;width: 0.36rem;height: 7.2rem;margin: 0;top:3.6rem;left: 3rem}
+.page4 .z1 img{position:absolute;width: 2.88rem;height: 0.27rem;background-size: cover;left:0.18rem;top:9.8rem}
+.page4 .z1 p{position:absolute;font-size: 0.26rem;color: #064a51;top:8.8rem;left:0.36rem}
+.page4 .z2 img{position:absolute;width: 2.88rem;height: 0.27rem;background-size: cover;right:0.18rem;top:8.3rem}
+.page4 .z2 p{position:absolute;font-size: 0.26rem;color: #064a51;top:7.3rem;right:0.64rem}
+.page4 .z3 img{position:absolute;width: 2.88rem;height: 0.27rem;background-size: cover;left:0.18rem;top:6.8rem}
+.page4 .z3 p{position:absolute;font-size: 0.26rem;color: #064a51;top:6.14rem;left:0.36rem}
+.page4 .z4 img{position:absolute;width: 2.88rem;height: 0.27rem;background-size: cover;right:0.18rem;top:5.3rem}
+.page4 .z4 p{position:absolute;font-size: 0.26rem;color: #064a51;top:4.3rem;right:0.9rem}
+
+/*第五屏*/
+.page5{background: url("../images/page5/bj.jpg") no-repeat;background-size: cover}
+.page5 .bt2 img{position: absolute;width: 3.25rem;height: 1.24rem;background-size: cover;left: 0.54rem;top:0.94rem;}
+.page5 .bt2 span{position:absolute;z-index:9;font-size: 0.54rem;color: #064a51;letter-spacing: 0.1rem;top: 1.16rem;right: 2.97rem}
+.page5 .x3 img{width: 0.39rem;height: 0.38rem;background-size: cover;padding-left: 0.8rem;padding-top: 0.3rem}
+.page5 .x3 span{font-size: 0.26rem;color: white;padding-left: 0.2rem}
+.page5 .x3 p{font-size: 0.26rem;color: white;padding-left: 1.4rem;padding-top: 0.2rem}
+.page5 .x3{padding-top: 2.3rem}
+.page5 .dxr{position:absolute;width: 0.88rem;height: 1.41rem;background-size: cover;left:3.8rem;top:9.7rem}
+.page5 .xxr{position:absolute;width: 0.45rem;height: 0.71rem;background-size: cover;left:3.36rem;top:10.2rem}
+
+/*第六屏*/
+.page6{background: url("../images/pege6/bj.jpg") no-repeat;background-size: cover}
+.page6 h1{font-size: 0.54rem;color: #064a51;text-align: center;letter-spacing: 0.1rem;font-weight: normal;padding-top: 1.16rem;padding-left:0.16rem}
+.page6 img{padding-top: 0.4rem;padding-left: 0.16rem}
+.page6 .x4 span{padding-top: 0.4rem;padding-left: 0.16rem}
+.page6 .x4 .d1{position:absolute;width: 4.72rem;height: 1.36rem;background-size: cover;left:0.7rem;top:2.4rem}
+.page6 .x4 .p1{position:absolute;z-index:9;font-size: 0.26rem;color: white;left:1.04rem;top:2.56rem;letter-spacing: 0.01rem}
+.page6 .x4 .k1{position:absolute;width: 4.72rem;height: 1rem;background-size: cover;left:0.7rem;top:4.26rem}
+.page6 .x4 .p2{position:absolute;z-index:9;font-size: 0.26rem;color: white;left:1.04rem;top:4.43rem;letter-spacing: 0.01rem}
+.page6 .x4 .d2{position:absolute;width: 4.72rem;height: 1.36rem;background-size: cover;left:0.7rem;top:5.76rem}
+.page6 .x4 .p3{position:absolute;z-index:9;font-size: 0.26rem;color: white;left:1.04rem;top:5.92rem;letter-spacing: 0.01rem}
+.page6 .x4 .k2{position:absolute;width: 4.72rem;height: 1rem;background-size: cover;left:0.7rem;top:7.62rem}
+.page6 .x4 .p4{position:absolute;z-index:9;font-size: 0.26rem;color: white;left:1.04rem;top:7.77rem;letter-spacing: 0.01rem}
+
+/*第七屏*/
+.page7{background: url("../images/pege7/bj.jpg") no-repeat;background-size: cover}
+.page7 img{position:absolute;top:1.76rem;left:2.14rem;width: 2.15rem;height: 2.15rem}
+.page7 h1{position:absolute;font-size: 0.28rem;color: #064a51;top:3.8rem;left:2.64rem}
+.page7 h2{position:absolute;font-size: 0.38rem;color: white;top:6rem;left:1.78rem;letter-spacing: 0.1rem;font-weight: normal}
+
+
+/*第一屏动画*/
+#page1 .jl{animation: fadeIn 1s ease .6s both;-webkit-animation: fadeIn 1s ease .6s both}
+#page1 .pen{-webkit-animation: pen 1s .1s ease infinite both;-moz-animation: pen 1s .1s ease infinite  both}
+@-webkit-keyframes pen {
+    0%{transform: translateY(0)}
+    100%{transform: translateY(1.8rem)}
+}
+@keyframes pen {
+    0%,100%{transform: translateY(0)}
+    50%{transform: translateY(0.9rem)}
+}
+
+#page1 h1{animation: bounceIn 1s ease 1.2s both;-webkit-animation: bounceIn 1s ease 1.2s both}
+#page1 span{animation: bounceIn 1s ease 1.2s both;-webkit-animation: bounceIn 1s ease 1.2s both}
+#page1 h2{animation: zoomIn 1.6s ease 2s both;-webkit-animation: zoomIn 1.6s ease 2s both}
+
+/*第二屏动画*/
+#page2 h1{animation: fadeInDown 1s ease .4s both;-webkit-animation: fadeInDown 1s ease .4s both}
+#page2 .zp{animation: fadeInDown 1s ease .6s both;-webkit-animation: fadeInDown 1s ease .6s both}
+#page2 .x1 span{animation: zoomInDown 1s ease 1s both;-webkit-animation: zoomInDown 1s ease 1.2s both}
+#page2 .x1 img{animation: img  1.5s ease infinite ;-webkit-animation: img  1.5s ease infinite }
+@-webkit-keyframes img {
+
+
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes img {
+    0% ,100%{
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+/*第三屏*/
+#page3 h1{animation: fadeInDown 1s ease .4s both;-webkit-animation: fadeInDown 1s ease .4s both}
+#page3 img{animation: img   2s ease  infinite ;-webkit-animation: img  2s  ease infinite}
+@-webkit-keyframes img {
+
+
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes img {
+    0%,100% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg);
+    }
+}
+
+#page3 .z1{animation: zoomInDown 1s ease .8s both;-webkit-animation: zoomInDown 1s ease .8s both}
+#page3 .z2{animation: zoomInDown 1s ease .8s both;-webkit-animation: zoomInDown 1s ease .8s both}
+#page3 .z3{animation: zoomInDown 1s ease 1.2s both;-webkit-animation: zoomInDown 1s ease 1.2s both}
+#page3 .z4{animation: zoomInDown 1s ease 1.2s both;-webkit-animation: zoomInDown 1s ease 1.2s both}
+#page3 .z5{animation: zoomInDown 1s ease 1.6s both;-webkit-animation: zoomInDown 1s ease 1.6s both}
+#page3 .z6{animation: zoomInDown 1s ease 1.6s both;-webkit-animation: zoomInDown 1s ease 1.6s both}
+#page3 .z7{animation: zoomInDown 1s ease 2s both;-webkit-animation: zoomInDown 1s ease 2s both}
+#page3 .z8{animation: zoomInDown 1s ease 2s both;-webkit-animation: zoomInDown 1s ease 2s both}
+
+/*第四屏*/
+#page4 .bt1 span{animation: fadeInDown 1s ease 1s both;-webkit-animation: fadeInDown 1s ease 1s both}
+#page4 .bt1 img{animation: rotateIn 1s ease .4s both;-webkit-animation: rotateIn 1s ease .4s both}
+#page4 .xbt .x2{animation: bounceIn 1s ease 2s both;-webkit-animation: bounceIn 1s ease 2s both}
+#page4 .sg{animation: bounceIn 1s ease 2s both;-webkit-animation: bounceIn 1s ease 2s both}
+#page4 .z1 img{animation: fadeInLeft 1s ease 2.6s both;-webkit-animation: fadeInLeft 1s ease 2.6s both}
+#page4 .z1 p{animation: bounceIn 1s ease 3.2s both;-webkit-animation: bounceIn 1s ease 3.2s both}
+#page4 .z2 img{animation: fadeInRight 1s ease 3.8s both;-webkit-animation: fadeInRight 1s ease 3.8s both}
+#page4 .z2 p{animation: bounceIn 1s ease 4.4s both;-webkit-animation: bounceIn 1s ease 4.4s both}
+#page4 .z3 img{animation: fadeInLeft 1s ease 5s both;-webkit-animation: fadeInLeft 1s ease 5s both}
+#page4 .z3 p{animation: bounceIn 1s ease 5.6s both;-webkit-animation: bounceIn 1s ease 5.6s both}
+#page4 .z4 img{animation: fadeInRight 1s ease 6.2s both;-webkit-animation: fadeInRight 1s ease 6.2s both}
+#page4 .z4 p{animation: bounceIn 1s ease 6.8s both;-webkit-animation: bounceIn 1s ease 6.8s both}
+
+/*第五屏*/
+#page5 .bt2 img{animation: rotateIn 1s ease .4s both;-webkit-animation: rotateIn 1s ease .4s both}
+#page5 .bt2 span{animation: fadeInDown 1s ease 1s both;-webkit-animation: fadeInDown 1s ease 1s both}
+#page5 .x3 .l1{animation: flipInX 1s ease 1.6s both;-webkit-animation: flipInX 1s ease 1.6s both}
+#page5 .x3 .j1{animation: fadeInLeft 1s ease 2.2s both;-webkit-animation: fadeInLeft 1s ease 2.2s both}
+#page5 .x3 .l2{animation: flipInX 1s ease 2.8s both;-webkit-animation: flipInX 1s ease 2.8s both}
+#page5 .x3 .j2{animation: fadeInLeft 1s ease 3.4s both;-webkit-animation: fadeInLeft 1s ease 3.4s both}
+#page5 .x3 .l3{animation: flipInX 1s ease 4s both;-webkit-animation: flipInX 1s ease 4s both}
+#page5 .x3 .j3{animation: fadeInLeft 1s ease 4.6s both;-webkit-animation: fadeInLeft 1s ease 4.6s both}
+#page5 .x3 .l4{animation: flipInX 1s ease 5.2s both;-webkit-animation: flipInX 1s ease 5.2s both}
+#page5 .x3 .j4{animation: fadeInLeft 1s ease 5.8s both;-webkit-animation: fadeInLeft 1s ease 5.8s both}
+#page5 .x3 .l5{animation: flipInX 1s ease 6.4s both;-webkit-animation: flipInX 1s ease 6.4s both}
+#page5 .x3 .j5{animation: fadeInLeft 1s ease 7s both;-webkit-animation: fadeInLeft 1s ease 7s both}
+#page5 .x3 .l6{animation: flipInX 1s ease 7.6s both;-webkit-animation: flipInX 1s ease 7.6s both}
+#page5 .x3 .j6{animation: fadeInLeft 1s ease 8.4s both;-webkit-animation: fadeInLeft 1s ease 8.4s both}
+#page5 .x3 p{animation: fadeInLeft 1s ease 8.4s both;-webkit-animation: fadeInLeft 1s ease 8.4s both}
+#page5 .dxr{-webkit-animation: rubberBand 1.4s .1s ease infinite both;-moz-animation: rubberBand 1.4s .1s ease infinite  both}
+#page5 .xxr{-webkit-animation: rubberBand 2s .1s ease infinite both;-moz-animation: rubberBand 2s .1s ease infinite  both}
+
+/*第六屏*/
+#page6 h1{animation: fadeInDown 1s ease .4s both;-webkit-animation: fadeInDown 1s ease .4s both}
+#page6 .x4 .d1{animation: flash 1s ease 1s both;-webkit-animation: flash 1s ease 1s both}
+#page6 .x4 .p1{animation: fadeInLeft 1s ease 2s both;-webkit-animation: fadeInLeft 1s ease 2s both}
+#page6 .x4 .k1{animation: flash 1s ease 3s both;-webkit-animation: flash 1s ease 3s both}
+#page6 .x4 .p2{animation: fadeInLeft 1s ease 4s both;-webkit-animation: fadeInLeft 1s ease 4s both}
+#page6 .x4 .d2{animation: flash 1s ease 5s both;-webkit-animation: flash 1s ease 5s both}
+#page6 .x4 .p3{animation: fadeInLeft 1s ease 6s both;-webkit-animation: fadeInLeft 1s ease 6s both}
+#page6 .x4 .k2{animation: flash 1s ease 7s both;-webkit-animation: flash 1s ease 7s both}
+#page6 .x4 .p4{animation: fadeInLeft 1s ease 8s both;-webkit-animation: fadeInLeft 1s ease 8s both}
+
+/*第七屏*/
+#page7 img{animation: zoomIn 1s ease 1s both;-webkit-animation: zoomIn 1s ease 1s both}
+#page7 h1{animation: zoomIn 1s ease 1s both;-webkit-animation: zoomIn 1s ease 1s both}
+#page7 h2{-webkit-animation: flash 2s 2s ease infinite both;-moz-animation: flash 2s 2s ease infinite  both}
